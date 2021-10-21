@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dc6a881e03438844bad0e0267306aed, type: 3}
+  m_Name: Num3
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5998738588829812885, guid: 1317baea13da0744d9fae2a4af0557e0, type: 3}
+  maxHealth: 0
+  canWalk: 1
+  walkSpeed: 5
+  canRun: 1
+  runSpeed: 10
+  canJump: 1
+  jumpHeight: 5
+  charName: Num3
